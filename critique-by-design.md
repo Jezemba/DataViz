@@ -1,6 +1,6 @@
 ## Introduction to the Data
 
-The data is on a post by Time Use on a special issue exploring how people spend their time during 24 hours across multiple countries. It majorly asks the question of how activities daily differ across countries. The data has information on a breakdown of people's daily activities, the amount of time spent on each activity in minutes, and the associated country for each daily activity. 14 categories are tracked in the dataset as shown below. 
+The data is on a post by Time Use on a special issue exploring how people spend their time during 24 hours across multiple countries (https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime). It majorly asks the question of how activities daily differ across countries. The data has information on a breakdown of people's daily activities, the amount of time spent on each activity in minutes, and the associated country for each daily activity. 14 categories are tracked in the dataset as shown below. 
 
 1.	Paid work
 2.	Education
@@ -69,3 +69,8 @@ I spent a significant part of this assignment trying to figure out the slope cha
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+### Video Resources
+1. https://www.youtube.com/watch?v=k0EiW4IJvrI
+2. https://www.youtube.com/watch?v=CBH-OA-99AM
+
