@@ -32,7 +32,7 @@ Many open-source data sets address food waste and food insecurity globally and i
 
 	- [ReFED - Food waste monitor](https://insights-engine.refed.org/food-waste-monitor?view=overview&year=2022)
 
-- Other Resources [Food: Material-Specific Data | US EPA](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/food-material-specific-data)
+- Other Resources [Food: Material-Specific Data US EPA](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/food-material-specific-data)
 
 ## An Outline
 
