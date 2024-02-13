@@ -12,11 +12,11 @@ Many open-source data sets address food waste and food insecurity globally and i
 
 - College Campus Food Insecurity
 
-	- [New Federal Data Confirm that College Students Face Significant—and Unacceptable—Basic Needs Insecurity | The Hope Center | The Hope Center (temple.edu)](https://hope.temple.edu/npsas)
+	- [New Federal Data Confirm that College Students Face Significant—and Unacceptable—Basic Needs Insecurity (temple.edu)](https://hope.temple.edu/npsas)
 
-	- [DataLab | Codebooks (ed.gov)](https://nces.ed.gov/datalab/codebooks/by-variable-name/157-national-postsecondary-student-aid-study-2020-undergraduate-students)
+	- [DataLab Codebooks (ed.gov)](https://nces.ed.gov/datalab/codebooks/by-variable-name/157-national-postsecondary-student-aid-study-2020-undergraduate-students)
 
-	- [DataLab | Codebooks (ed.gov)](https://nces.ed.gov/datalab/codebooks/by-variable-name/158-national-postsecondary-student-aid-study-2020-graduate-students)
+	- [DataLab Codebooks (ed.gov)](https://nces.ed.gov/datalab/codebooks/by-variable-name/158-national-postsecondary-student-aid-study-2020-graduate-students)
 
 - Food Insecurity in USA
 
@@ -28,7 +28,7 @@ Many open-source data sets address food waste and food insecurity globally and i
 
 - Food Waste Globally
 
-	- [Waste: Food Waste (Edition 2017) | OECD Environment Statistics | OECD iLibrary (oecd-ilibrary.org)](https://www.oecd-ilibrary.org/agriculture-and-food/data/oecd-environment-statistics/waste-food-waste-edition-2017_ee807a23-en)
+	- [Waste: Food Waste (Edition 2017) OECD Environment Statistics OECD iLibrary (oecd-ilibrary.org)](https://www.oecd-ilibrary.org/agriculture-and-food/data/oecd-environment-statistics/waste-food-waste-edition-2017_ee807a23-en)
 
 	- [ReFED - Food waste monitor](https://insights-engine.refed.org/food-waste-monitor?view=overview&year=2022)
 
@@ -40,13 +40,13 @@ The story on food insecurity is highlighted in the storyboard below. It follows 
 The story of food insecurity among college students starts by exploring major statistics that show food insecurity among college students is worse than in the general US population. It further discusses what groups of college students are most affected, calling out specific socioeconomic backgrounds as well. It ends on a somber note on hunger being a determining factor in success in graduation and completion of a degree. 
 The story arc then ends on a happy note on how these two problems complement each other and how surplus food can be used to fill the food insecurity gap. It finally gives the audience some calls to action on how to help now which include getting involved with the greater Pittsburgh food bank.
 
-![[Storyboard.png]]
+![Initial Storyboard](/Storyboard.png)
 
 ## Some Data Visualization Ideas
 
 To better represent the story, the following visualizations will be created based on the part of the storyboard indicated by the numbers. Most of the visualizations work to show disparities among different classes of people such as in the case of socioeconomic factors with food insecurity in the US and within college students. Heat maps of the globe and the US are also used to show different areas where food insecurity exists to better put the problem in perspective. While the sketches are not completely representative of the data, they follow similar trends from the available datasets.
 
-![[InitialVisualizations.png]]
+![Initial Visualizations](/InitialVisualizations.png)
 
 ## Method and Medium
 
