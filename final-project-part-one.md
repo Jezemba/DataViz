@@ -1,4 +1,4 @@
-## Part I: Final project
+## Food Insecurity Among College Students
 
 The final project that I will be exploring is food waste in the US specifically I will be exploring how there is so much food waste within the US and there are many countries with food insecurities. Most of this visualization will explore a subset of food food-insecure population not broadly talked about, College Students.
 
