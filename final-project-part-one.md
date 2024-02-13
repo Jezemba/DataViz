@@ -1,10 +1,14 @@
 ## Part I: Final project
 
-The final project that I will be exploring is food waste in the US specifically I will be exploring how there is so much food waste within the US and there are many countries with food insecurities. Most of this visualization will explore a subset of food food-insecure population not broadly talked about, College Students. 
-Food insecurity is a significant issue among college students, with prevalence rates ranging from 13% to 60% depending on the institution 1. The National Postsecondary Student Aid Study (NPSAS:20) provides a nationally representative dataset highlighting high levels of food insecurity and homelessness among marginalized students, including Black, Latina, Indigenous students, parenting students, and students with disabilities 1.
-Food insecurity rates among college students are notably higher than those in the general population, with literature reviews reporting average prevalence rates of 33-51% compared to 9.8% among U.S. adults 2.
-A study conducted in Texas in May 2020 found that 34.5% of respondents were food insecure within the last 30 days 3. The 2020 National Postsecondary Student Aid Study revealed that more than one in five undergraduates experience food insecurity 4.
-Food insecurity among college students has been linked to lower graduation rates and lower chances of obtaining a bachelor's or advanced degree 5. It also impacts academic performance, with 81% of students facing food or housing instability reporting that hunger harmed their academic performance 6.
+The final project that I will be exploring is food waste in the US specifically I will be exploring how there is so much food waste within the US and there are many countries with food insecurities. Most of this visualization will explore a subset of food food-insecure population not broadly talked about, College Students.
+
+Food insecurity is a significant issue among college students, with prevalence rates ranging from 13% to 60% depending on the institution [1](https://hope.temple.edu/npsas). The National Postsecondary Student Aid Study (NPSAS:20) provides a nationally representative dataset highlighting high levels of food insecurity and homelessness among marginalized students, including Black, Latina, Indigenous students, parenting students, and students with disabilities [1](https://hope.temple.edu/npsas).
+
+Food insecurity rates among college students are notably higher than those in the general population, with literature reviews reporting average prevalence rates of 33-51% compared to 9.8% among U.S. adults [2](https://www.sciencedirect.com/science/article/pii/S0306919221000099).
+
+A study conducted in Texas in May 2020 found that 34.5% of respondents were food insecure within the last 30 days [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551032/). The 2020 National Postsecondary Student Aid Study revealed that more than one in five undergraduates experience food insecurity [4](https://www.diverseeducation.com/reports-data/article/15543689/government-data-reveals-1-in-5-undergrads-are-food-insecure).
+
+Food insecurity among college students has been linked to lower graduation rates and lower chances of obtaining a bachelor's or advanced degree [5](https://publichealth.jhu.edu/2021/food-insecurity-during-college-years-linked-to-lower-graduation-rate). It also impacts academic performance, with 81% of students facing food or housing instability reporting that hunger harmed their academic performance [6](https://www.affordablecollegesonline.org/college-resource-center/college-food-insecurity-support/)
 
 ## Available Datasets
 
