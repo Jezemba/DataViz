@@ -1,6 +1,8 @@
 # Wireframes and Storyboard
 Food insecurity in college students is the major focus of the story but a lot of additional aspects need to be explored to fully tell the full picture, food waste in the US, and food insecurity globally, nationally, and within campuses. The wireframes developed followed the story arch on starting from understanding food waste in the US then understanding food insecurity that still exists. The narrowing down of the story was using key statistics to move from a global perspective to a national perspective then the student's perspective. After this narrowing down, the rest of the article focuses on the problem of food insecurity among students and how different socio-economic factors play in who has access to food. The story then took a turn to call out the solution which involves food waste in the US and repurposing wasted prepped meals as well as donations to national and local food banks.
 
+Link to shorthand: https://preview.shorthand.com/X7rFo4Ion2dIy7iA
+
 ![image](https://github.com/Jezemba/DataViz/assets/98770734/d05523bf-b7c0-43ab-8c69-c8dcc8e558ba)
 
 ![image](https://github.com/Jezemba/DataViz/assets/98770734/bc0eedd8-a56a-45d0-8a22-5e81f81ec997)
